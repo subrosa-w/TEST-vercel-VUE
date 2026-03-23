@@ -1,0 +1,74 @@
+[
+    {
+        "id": "prod_1",
+        "name": "Papel Higiénico Jumbo 500m",
+        "description": "Fardo de 6 rollos doble hoja, ideal para dispensadores de alto tráfico.",
+        "price": 4500,
+        "category": "Baños",
+        "image": "https://placehold.co/400x400/eeeeee/333333?text=Papel+Jumbo",
+        "stock_unit": "Fardo x 6"
+    },
+    {
+        "id": "prod_2",
+        "name": "Toalla Interfoliada Blanca",
+        "description": "Caja de 2400 hojas de toalla de papel absorbente.",
+        "price": 12000,
+        "category": "Baños",
+        "image": "https://placehold.co/400x400/eeeeee/333333?text=Toalla+Interfoliada",
+        "stock_unit": "Caja x 2400"
+    },
+    {
+        "id": "prod_3",
+        "name": "Jabón Líquido Bidón 5L",
+        "description": "Jabón glicerinado aroma floral para dispensadores.",
+        "price": 3800,
+        "category": "Aseo Personal",
+        "image": "https://placehold.co/400x400/eeeeee/333333?text=Jabon+Liquido+5L",
+        "stock_unit": "Bidón 5L"
+    },
+    {
+        "id": "prod_4",
+        "name": "Limpiador Multipropósito 5L",
+        "description": "Detergente desengrasante y desodorizante para pisos y superficies.",
+        "price": 4200,
+        "category": "Limpieza",
+        "image": "https://placehold.co/400x400/eeeeee/333333?text=Limpiador+5L",
+        "stock_unit": "Bidón 5L"
+    },
+    {
+        "id": "prod_5",
+        "name": "Alcohol Gel 70% 5L",
+        "description": "Sanitizante de manos sin enjuague, bidón recarga.",
+        "price": 9500,
+        "category": "Aseo Personal",
+        "image": "https://placehold.co/400x400/eeeeee/333333?text=Alcohol+Gel+5L",
+        "stock_unit": "Bidón 5L"
+    },
+    {
+        "id": "prod_6",
+        "name": "Bolsas de Basura 90x120cm",
+        "description": "Paquete de 100 unidades, resistentes para residuos industriales.",
+        "price": 8500,
+        "category": "Accesorios",
+        "image": "https://placehold.co/400x400/eeeeee/333333?text=Bolsas+Basura",
+        "stock_unit": "Paquete x 100"
+    },
+    {
+        "id": "prod_7",
+        "name": "Mascarillas Desechables 3 Pliegues",
+        "description": "Caja de 50 mascarillas con ajuste nasal.",
+        "price": 1500,
+        "category": "Protección",
+        "image": "https://placehold.co/400x400/eeeeee/333333?text=Mascarillas",
+        "stock_unit": "Caja x 50"
+    },
+    {
+        "id": "prod_8",
+        "name": "Desinfectante Amonio Cuaternario 5L",
+        "description": "Desinfectante de amplio espectro, listo para diluir.",
+        "price": 5500,
+        "category": "Limpieza",
+        "image": "https://placehold.co/400x400/eeeeee/333333?text=Amonio+Cuaternario",
+        "stock_unit": "Bidón 5L"
+    }
+]
